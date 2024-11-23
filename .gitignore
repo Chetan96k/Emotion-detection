@@ -1,0 +1,15 @@
+# Ignore the virtual environment folder
+ed/
+
+# Ignore the images folder
+images/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# (Optional) Add other files or folders you want to ignore
+.env  # For environment variables
+.idea/  # IDE-specific settings (e.g., PyCharm)
+*.log  # Log files
